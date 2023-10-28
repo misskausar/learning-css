@@ -1,0 +1,29 @@
+/* LAST RULE */
+/* h1{
+    color: red;
+} */
+
+/* p{
+    color: red;
+}
+
+p{
+    color: green;
+} */
+
+/* p{
+    color: blue;
+} */
+
+/* SPECIFICITY */
+/* *{
+    color: red;
+}
+
+P{
+    color: green ;
+}
+
+p#intro{
+    color: blue;
+} */
